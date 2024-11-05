@@ -11,7 +11,7 @@ This repository contains an Excel-based data analysis project which involves ana
 
 ### Data Sources
 
-The Primary Datasets used for this analysis is the  file,containing detailed information about each sales made by the retail store.
+The Primary Datasets used for this analysis is the https://drive.google.com/file/d/1e5_oWTeEtl3FqnG05-vWh1vjW092orcW/view?usp=drive_link file,containing detailed information about each sales made by the retail store.
 
 ### Tools Used
 
@@ -22,8 +22,12 @@ The Primary Datasets used for this analysis is the  file,containing detailed inf
 -Steps Involved includes:
 
 Data Importation (Collected and imported data from various sources)
+
 Data Profiling
+
 Data Validation (Checked for null values)
+
 Data Transformation (Performed Data Calculations)
+
 Error Detection (identification of Duplicate records)
 
