@@ -101,7 +101,13 @@ From [dbo].[LITA Capstone Dataset11]
   - Implement customer retention strategies to stabilize both active and inactive subscriptions, especially in underperforming regions like the East.
   - Given that Basic is the most popular subscription type, consider expanding its availability or introducing additional features to further boost sales, especially in regions where it 
     is underrepresented.
- - Given the drop in sales from 2022 to 2023, assess market shifts or external factors that may have impacted performance and adjust strategies to improve sales for the coming year.
+  - Given the drop in sales from 2022 to 2023, assess market shifts or external factors that may have impacted performance and adjust strategies to improve sales for the coming year.
+ 
+### Limitations
+-Some values were missing, which limited the ability to conduct a thorough analysis of the customer data.
+
+### Conclusions
+- 
 
 
 
