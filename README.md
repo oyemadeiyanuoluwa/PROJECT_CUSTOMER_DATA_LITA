@@ -104,7 +104,7 @@ From [dbo].[LITA Capstone Dataset11]
   - Given the drop in sales from 2022 to 2023, assess market shifts or external factors that may have impacted performance and adjust strategies to improve sales for the coming year.
  
 ### Limitations
--Some values were missing, which limited the ability to conduct a thorough analysis of the customer data.
+- Some values were missing, which limited the ability to conduct a thorough analysis of the customer data.
 
 ### Conclusions
 - To address the sales decline, it's important to identify the causes, especially towards the end of the year, and implement strategies like seasonal promotions and loyalty programs to 
