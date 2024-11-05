@@ -92,12 +92,12 @@ From [dbo].[LITA Capstone Dataset11]
 
 ### Results/Findings
 - No active subscription was found in the East Region.
-- 
- ![Customer Data01](https://github.com/user-attachments/assets/866c7f98-6109-4cfa-85f2-d20422d40fd7)
+  
+  ![Customer Data03](https://github.com/user-attachments/assets/9dc19022-b726-4717-9b56-e7cbf2e4a229)
 
 - The North Region recorded the highest subscription rates for both active and inactive subscriptions.
-- 
- ![Customer Data03](https://github.com/user-attachments/assets/db3f06c2-178e-4aef-ae30-ec85354aef71)
+  
+  ![Customer Data01](https://github.com/user-attachments/assets/a7e3c46e-742d-4e35-bddb-6cbe2abc5108)
 
 - Basic is the highest subscription type. Out of four regions, it was the highest in two regions.
   
