@@ -92,10 +92,24 @@ From [dbo].[LITA Capstone Dataset11]
 
 ### Results/Findings
 - No active subscription was found in the East Region.
+- 
+ ![Customer Data01](https://github.com/user-attachments/assets/866c7f98-6109-4cfa-85f2-d20422d40fd7)
+
 - The North Region recorded the highest subscription rates for both active and inactive subscriptions.
+- 
+ ![Customer Data03](https://github.com/user-attachments/assets/db3f06c2-178e-4aef-ae30-ec85354aef71)
+
 - Basic is the highest subscription type. Out of four regions, it was the highest in two regions.
+  
+  ![Customer Data02](https://github.com/user-attachments/assets/3e3ef78e-6495-498f-b6e5-925e5c3ac5e7)
+
 - When comparing total sales by subscription type, 2022 showed significantly higher sales than 2023, with a substantial difference.
+  
+  ![Customer Data05](https://github.com/user-attachments/assets/565b4a5d-c4a3-44bc-8416-655e0f5635af)
+
 - Both active and inactive subscriptions fluctuated over the years, with sales declining towards the end of the year.
+  ![Customer Data04](https://github.com/user-attachments/assets/48b8d370-5800-440d-9d38-b1de62c1d23c)
+
 
   ### Recommendations
   - Implement customer retention strategies to stabilize both active and inactive subscriptions, especially in underperforming regions like the East.
