@@ -56,6 +56,37 @@ Group By Region
 Order by Region
 ```
 
+- Most Popular Subscription type by number of customers
+```
+Select  Max(SubscriptionType) as MostPopularsubscriptiontype, Revenue
+from [dbo].[LITA Capstone Dataset11]
+Group By Revenue
+Order By Revenue DESC;
+```
+
+- The total Revenue by subscription type
+```
+Select SubscriptionType, sum(Revenue) as TotalRevenuebySubscriptioType
+from [dbo].[LITA Capstone Dataset11]
+Group by SubscriptionType
+```
+
+- The top 3 regions by subscription cancelation
+```
+ Top 3 Region,count (Canceled)
+From [dbo].[LITA Capstone Dataset11]
+Group By Region
+```
+
+- The total number of active and canceled subscriptions
+```
+Select 
+Count(case when Canceled = 'False' then 1 else 0 end) as Activesubscriptions,
+Count(case when Canceled = 'True' then 1 else 0 end) as canceledsubscriptions
+From [dbo].[LITA Capstone Dataset11]
+```
+
+
 
 
 
