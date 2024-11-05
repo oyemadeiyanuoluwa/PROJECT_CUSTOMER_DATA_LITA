@@ -31,3 +31,17 @@ Data Transformation (Performed Data Calculations)
 
 Error Detection (identification of Duplicate records)
 
+### Exploratory Data Analysis
+
+EDA involved the sales data to answer key questions, such as:
+
+- The total number of sales for each region
+- Most popular subscription types by the number of customers
+- The total revenue by subscription type
+- The top 3 regions by subscription cancellations
+- The total number of active and canceled subscriptions.
+
+
+
+
+
