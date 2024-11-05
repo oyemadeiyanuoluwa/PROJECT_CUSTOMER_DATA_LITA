@@ -91,6 +91,22 @@ From [dbo].[LITA Capstone Dataset11]
 ```
 
 ### Results/Findings
+- No active subscription was found in the East Region.
+- The North Region recorded the highest subscription rates for both active and inactive subscriptions.
+- Basic is the highest subscription type. Out of four regions, it was the highest in two regions.
+- When comparing total sales by subscription type, 2022 showed significantly higher sales than 2023, with a substantial difference.
+- Both active and inactive subscriptions fluctuated over the years, with sales declining towards the end of the year.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
