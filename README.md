@@ -47,13 +47,14 @@ Used SQL Server for the Data Analysis and the code used to answer the Key questi
 
 ```Sql
  Select * from [dbo].[LITA Capstone Dataset11]
-
+```
 - The Total Number of Sales for each Region
+```
 SELECT Region, count(CustomerID) as NumberofCustomers
 from [dbo].[LITA Capstone Dataset11]
 Group By Region
 Order by Region
-
+```
 
 
 
