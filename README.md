@@ -15,7 +15,11 @@ The Primary Datasets used for this analysis is the https://drive.google.com/file
 
 ### Tools Used
 
--Microsoft Excel- This was used for Data Cleaning and also Data Visulization -SQL Server- This was used for Data Analysis -Power Bi- This was used for creating reports.
+-Microsoft Excel:This was used for Data Cleaning and also Data Visulization
+
+- SQL Server : This was used for Data Analysis
+  
+- Power Bi : This was used for creating reports. 
 
 ### Data Cleaning/Preparation
 
@@ -85,6 +89,9 @@ Count(case when Canceled = 'False' then 1 else 0 end) as Activesubscriptions,
 Count(case when Canceled = 'True' then 1 else 0 end) as canceledsubscriptions
 From [dbo].[LITA Capstone Dataset11]
 ```
+
+### Results/Findings
+
 
 
 
