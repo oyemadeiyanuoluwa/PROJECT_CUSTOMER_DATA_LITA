@@ -41,6 +41,20 @@ EDA involved the sales data to answer key questions, such as:
 - The top 3 regions by subscription cancellations
 - The total number of active and canceled subscriptions.
 
+  ### Data Analysis
+
+Used SQL Server for the Data Analysis and the code used to answer the Key questions above include the following:
+
+```Sql
+ Select * from [dbo].[LITA Capstone Dataset11]
+
+- The Total Number of Sales for each Region
+SELECT Region, count(CustomerID) as NumberofCustomers
+from [dbo].[LITA Capstone Dataset11]
+Group By Region
+Order by Region
+
+
 
 
 
