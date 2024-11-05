@@ -97,6 +97,17 @@ From [dbo].[LITA Capstone Dataset11]
 - When comparing total sales by subscription type, 2022 showed significantly higher sales than 2023, with a substantial difference.
 - Both active and inactive subscriptions fluctuated over the years, with sales declining towards the end of the year.
 
+  ### Recommendations
+  - Implement customer retention strategies to stabilize both active and inactive subscriptions, especially in underperforming regions like the East.
+  - Given that Basic is the most popular subscription type, consider expanding its availability or introducing additional features to further boost sales, especially in regions where it 
+    is underrepresented.
+ - Given the drop in sales from 2022 to 2023, assess market shifts or external factors that may have impacted performance and adjust strategies to improve sales for the coming year.
+
+
+
+
+
+
 
 
 
