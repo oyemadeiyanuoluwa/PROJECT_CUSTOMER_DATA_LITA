@@ -107,7 +107,13 @@ From [dbo].[LITA Capstone Dataset11]
 -Some values were missing, which limited the ability to conduct a thorough analysis of the customer data.
 
 ### Conclusions
-- 
+- To address the sales decline, it's important to identify the causes, especially towards the end of the year, and implement strategies like seasonal promotions and loyalty programs to 
+  maintain momentum. Focusing on customer retention and re-engagement will help stabilize both active and inactive subscriptions, particularly in underperforming regions like the East.
+
+- By leveraging the strong performance in the North Region, targeted campaigns can be used to boost subscriptions in other areas. Expanding the popular Basic subscription and 
+  considering new features will help increase sales, particularly in regions where it’s underrepresented.
+
+
 
 
 
